@@ -1,0 +1,31 @@
+{
+  "vinos": [{
+    "nombre": "Juan Gil Moscatel Seco",
+    "anyo": null,
+    "denominacionDeOrigen": "",
+    "categorias": ["Categorias.Blanco"],
+    "resumen": "Blanco Joven. Moscatel de Grano Menudo. Vinificación en depósitos de acero inoxidable durante 25 días con una temperatura máxima de 15 º C. Una vez terminado el proceso de fermentación permanece en depósito refrigerado hasta su embotellado.",
+    "descripcion": "Color amarillo pajizo con destellos verdosos y dorado. Elegantes y frescos aromas de frutas de hueso y tropicales (melocotón, albaricoque, piña) cítricos y flores blancas. En boca es limpio, armónico y sabroso, muy fresco y frutal con una interesante acidez y presencia de cítricos, amable y largo final de boca con recuerdos que te llevan de nuevo al inicio de la cata e invitan a seguir bebiendo.",
+    "opiniones": ["Un vino de buena calidad"],
+    "url": "http://bodegasjuangil.com/",
+    "imagenes": ["http://bodegasjuangil.com/wp-content/themes/gfe-juangil/bodega/vinos/juangil-moscatel.png"],
+    "puntuacion": 3.5, 
+    "geolocalizacion": [38.563750,-1.350325],
+    "recomendadoCon": ["RecomendadoCon.Carne"]
+    
+  },
+  {
+   "nombre": "Juan Gil Moscatel Dulce",
+    "anyo": null,
+    "denominacionDeOrigen": "",
+    "categorias": ["Categorias.Blanco"],
+    "resumen": "Blanco Joven. Moscatel de Grano Menudo. Vinificación en depósitos de acero inoxidable durante 25 días con una temperatura máxima de 15 º C. Una vez terminado el proceso de fermentación permanece en depósito refrigerado hasta su embotellado.",
+    "descripcion": "Color amarillo pajizo con destellos verdosos y dorado. Elegantes y frescos aromas de frutas de hueso y tropicales (melocotón, albaricoque, piña) cítricos y flores blancas. En boca es limpio, armónico y sabroso, muy fresco y frutal con una interesante acidez y presencia de cítricos, amable y largo final de boca con recuerdos que te llevan de nuevo al inicio de la cata e invitan a seguir bebiendo.",
+    "opiniones": ["Un vino de buena calidad"],
+    "url": "http://bodegasjuangil.com/",
+    "imagenes": ["http://bodegasjuangil.com/wp-content/themes/gfe-juangil/bodega/vinos/juangil-moscatel.png"],
+    "puntuacion": 3.5, 
+    "geolocalizacion": [38.563750,-1.350325],
+    "recomendadoCon": ["RecomendadoCon.Carne"]
+  }]
+}
